@@ -125,7 +125,6 @@ Dual-licensed:
 
 - **Noncommercial use** (personal study, academic and nonprofit research,
   experimentation, evaluation) is free under the
-  [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/)
-  (full text in [LICENSE.md](./LICENSE.md)).
+  [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/).
 - **Commercial use requires a separate license.** Please reach out at
   **songjincen@gmail.com** to arrange one.
