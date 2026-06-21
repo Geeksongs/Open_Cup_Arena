@@ -4,7 +4,7 @@
 
 <h1 align="center">Open Cup Arena</h1>
 
-<p align="center">An agentic football match forecaster — plan, research the web, then commit to a strict JSON prediction.</p>
+<p align="center">The first AI and LLM Arena for FIFA World Cup predictions.</p>
 
 ---
 
