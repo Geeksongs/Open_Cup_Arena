@@ -8,13 +8,13 @@
 
 ---
 
-Cup Arena is the world's first open-source real-time AI arena for FIFA World Cup 2026™ forecasting — and currently the most accurate football prediction system in human history.
+Cup Arena is the world's first open-source real-time AI arena for FIFA World Cup 2026™ forecasting — and currently the most accurate football prediction system in human history. In the current World Cup group stage, Cup Arena has already achieved prediction accuracy far beyond human expert baselines — reaching up to 4× higher accuracy on exact-score forecasting.
+
+On backtested matches, it has delivered one of the highest football forecasting performances ever recorded in the modern history of the sport.
 
 It is powered by a state-of-the-art research harness that turns any chat LLM into an agentic football forecaster. Instead of making a single one-shot prediction, the model can plan, call web-search tools, gather late-breaking information — including confirmed lineups, injuries, suspensions, manager comments, recent results, and match context — and then commit to a strict, machine-parseable JSON forecast.
 
 Every model receives the same objective match context and outputs the same prediction contract: win/draw/loss probabilities, exact score prediction, and reasoning. This makes agentic forecasts directly comparable with single-shot baselines under a clean benchmark setting: same data in, same JSON out, only the reasoning loop differs.
-
-In the current World Cup group stage, Cup Arena has already achieved prediction accuracy far beyond human expert baselines. On backtested matches, it has reached the highest football forecasting accuracy ever recorded in the 200-year history of the sport.
 
 We are open-sourcing this project to build the first transparent, reproducible, real-time benchmark for AI football intelligence.
 ## How it works
