@@ -14,8 +14,6 @@ On backtested matches, it has delivered one of the highest football forecasting 
 
 It is powered by a state-of-the-art research harness that turns any chat LLM into an agentic football forecaster. Instead of making a single one-shot prediction, the model can plan, call web-search tools, gather late-breaking information — including confirmed lineups, injuries, suspensions, manager comments, recent results, and match context — and then commit to a strict, machine-parseable JSON forecast.
 
-Every model receives the same objective match context and outputs the same prediction contract: win/draw/loss probabilities, exact score prediction, and reasoning. This makes agentic forecasts directly comparable with single-shot baselines under a clean benchmark setting: same data in, same JSON out, only the reasoning loop differs.
-
 We are open-sourcing this project to build the first transparent, reproducible, real-time benchmark for AI football intelligence.
 ## How it works
 
